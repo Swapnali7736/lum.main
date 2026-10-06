@@ -1,0 +1,4 @@
+anu 80
+rahul 65
+meera 90
+arun 70

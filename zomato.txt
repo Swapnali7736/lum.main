@@ -1,0 +1,6 @@
+burger
+pizza
+fries
+idli
+cake
+dosa
